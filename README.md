@@ -2,7 +2,7 @@
 
 This is the source code of my personal portfolio website — a space where I introduce myself, highlight the projects I’ve built, and share my journey in tech.
 
-🌐 **Live Site** → [x1nqing.github.io/website](https://x1nqing.github.io/website)
+🌐 **Live Site** → [x1nqing.github.io/selfwebsite/](https://x1nqing.github.io/selfwebsite/)
 
 ---
 
